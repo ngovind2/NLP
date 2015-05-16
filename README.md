@@ -1,4 +1,4 @@
-Natural Processing Language Project
+Natural Language Processing Project
 ======
 
 This project investigates a topic in Natural Language Processing (NLP), while practicing AVL tree data structure. In NLP, one often needs to count how many times each particular word occurs in a text. 
